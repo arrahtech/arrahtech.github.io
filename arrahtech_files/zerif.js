@@ -4,11 +4,8 @@
 $.vegas('slideshow', {
   delay:7000,
   backgrounds:[
-    { src:'images/backgrounds/b1.jpg', fade:1000 },
-    { src:'images/backgrounds/b2.jpg', fade:1000 },
-    { src:'images/backgrounds/b3.jpg', fade:1000 },
-    { src:'images/backgrounds/b4.jpg', fade:1000 },
-    { src:'images/backgrounds/b5.jpg', fade:1000 }
+    { src:'arrahtech_files/b2.jpg', fade:1000 },
+    { src:'arrahtech_files/b3.jpg', fade:1000 },
   ]
 });
       
