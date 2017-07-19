@@ -568,7 +568,7 @@ input:product {
 	width: 145px;
 	height: 145px;
 	margin: auto;
-	border-radius: 50%;
+	border-radius: 30%;
 	border: 10px solid #ececec;
 	margin-bottom: 20px;
 	position: relative;
