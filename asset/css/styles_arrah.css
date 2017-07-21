@@ -496,7 +496,8 @@ input:product {
 	height: 76px;
 	position: relative;
 	line-height: 45px;
-	padding-top: 23px;
+	padding-top: 11px;
+	padding-bottom: 13px;
 }
 .current a {
 	color: #7BCC42 !important;
