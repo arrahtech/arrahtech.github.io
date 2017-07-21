@@ -782,7 +782,7 @@ width: -webkit-calc(100% / 2);
 	position: relative;
 	display: none;
 }
-#loader .loader-icon {
+#loader .git  {
 	background: url(../images/loading.gif) no-repeat center center;
 	background-color: #FFF;
 	margin: -22px -22px;
