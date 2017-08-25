@@ -4,8 +4,8 @@
 $.vegas('slideshow', {
   delay:7000,
   backgrounds:[
-    { src:'asset/images/b2.jpg', fade:1000 },
-    { src:'asset/images/b3.jpg', fade:1000 },
+    { src:'assets/images/b2.jpg', fade:1000 },
+    { src:'assets/images/b3.jpg', fade:1000 },
   ]
 });
       

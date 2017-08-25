@@ -1,1 +1,10 @@
-theme: minima
+theme: jekyll-theme-slate
+
+author: Arun Yadav
+email: arunwizz@gmail.com
+
+title: [OSDQ Documentation]
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
